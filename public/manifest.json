@@ -1,6 +1,6 @@
 {
-  "short_name": "App",
-  "name": "App",
+  "short_name": "PrivKeyGen",
+  "name": "Private Key Generator",
   "icons": [
     {
       "src": "favicon.ico",

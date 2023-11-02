@@ -1,6 +1,6 @@
 {
-  "name": "simple-react-app",
-  "description": "A simple template for a webpack-based React app",
+  "name": "priv-key-gen",
+  "description": "Generate private keys",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

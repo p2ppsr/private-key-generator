@@ -1,6 +1,6 @@
-# Simple React App
+# Private Key Generator
 
-A simple template for a webpack-based React app
+Generate Private Keys
 
 ## Development Instructions
 
